@@ -1,0 +1,26 @@
+body {
+background-color:#f4f0ec;
+font-family:"Lucida Console", Courier, monospace;
+}
+.attention {
+font-size:25px;
+color:red;
+text-align:center;
+
+}
+.information{
+font-size:18px;
+text-align:center;
+
+}
+.description{
+	font-size:13px;
+	text-align:center;
+}
+hr.size-1 { 
+border-top:15px solid #8c8b8b;
+}
+.desc{
+	font-size:10px;
+	text-align:center;
+}
